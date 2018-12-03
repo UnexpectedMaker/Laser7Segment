@@ -22,7 +22,7 @@ The you simply pass the display the String you would like displayed and a color:
 
     disp.DisplayText( "1234", disp.Color( 255,0,0) );
 
-    Enjoy!
+Enjoy!
 
 # Buy me a coffee or back me on Patreon?
 I love making and designing projects but sharing open source projects takes a lot of thought and time. I do it because I think it’s important to share knowledge and give back to the community like many have done before me.
